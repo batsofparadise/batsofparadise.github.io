@@ -132,3 +132,28 @@ iframe {
   margin-top: 20px;
   align-items: center;
 }
+
+.press-quotes {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
+
+.press-quotes h2 {
+  color: #333;
+}
+
+.press-quotes .quote {
+  margin-bottom: 20px;
+}
+
+.press-quotes .quote p {
+  font-style: italic;
+  color: grey;
+  text-align: center;
+}
+
+.press-quotes .quote .source {
+  font-weight: bold;
+  margin-top: 10px;
+}
