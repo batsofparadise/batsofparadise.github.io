@@ -42,6 +42,8 @@ header img {
   margin: 0 auto;
 }
 
+
+
 .links {
   display: flex;
   justify-content: center;
@@ -87,6 +89,14 @@ header img {
   text-align: center;
   padding: 20px;
   max-width: 750px;
+}
+
+.content img {
+  display: block;
+  margin: 0 auto;
+  max-width: 60%;
+  height: auto;
+  margin-top: 30px;
 }
 
 main {
@@ -156,4 +166,9 @@ iframe {
 .press-quotes .quote .source {
   font-weight: bold;
   margin-top: 10px;
+}
+
+.press-quotes a {
+  font-weight: bold;
+  font-size: 20px;
 }
